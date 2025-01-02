@@ -31,7 +31,7 @@ MeetMate is hosted at: https://meetmatefinal.onrender.com/
 4. **Organize Follow-Ups**: Automatically schedule follow-ups based on meeting discussions in your Google Calendar.
 
 ## Demo Video
-[![Watch the video](https://img.youtube.com/vi/TFs_JSMsnDc/maxresdefault.jpg)](https://youtu.be/TFs_JSMsnDc)
+[![Watch the video](https://img.youtube.com/vi/KAbtrxh1IVg/maxresdefault.jpg)](https://youtu.be/KAbtrxh1IVg)
 
 ### [Watch this video on YouTube](https://youtu.be/TFs_JSMsnDc)
 
