@@ -33,7 +33,7 @@ MeetMate is hosted at: https://meetmatefinal.onrender.com/
 ## Demo Video
 [![Watch the video](https://img.youtube.com/vi/KAbtrxh1IVg/maxresdefault.jpg)](https://youtu.be/KAbtrxh1IVg)
 
-### [Watch this video on YouTube](https://youtu.be/TFs_JSMsnDc)
+### [Watch this video on YouTube](https://youtu.be/KAbtrxh1IVg)
 
 ## Creators
 - V Kamal Jerome
